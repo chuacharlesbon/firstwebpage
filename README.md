@@ -5,6 +5,8 @@ My First Web Page includes my source code, css styling, use of links and basic i
 - LastUpdated: Jan 25, 2022
 - Uploaded: May 5, 2022
 
+This page is static and non-responsive. 
+
 ## References
 W3 Schools Online
 
